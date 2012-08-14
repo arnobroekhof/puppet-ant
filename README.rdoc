@@ -1,0 +1,16 @@
+= ant puppet recipe
+
+This is the ant module.
+
+License
+-------
+
+
+Contact
+-------
+
+
+Support
+-------
+
+Please log tickets and issues at our [Projects site](http://projects.example.com)
