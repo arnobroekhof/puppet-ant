@@ -2,15 +2,13 @@
 
 This is the ant module.
 
-License
--------
+== License
+Released under the terms of Apache 2 License.
 
+== Usage
 
-Contact
--------
+include ant
 
+== Support
 
-Support
--------
-
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log tickets and issues at github (https://github.com/arnobroekhof/puppet-ant/issues)
